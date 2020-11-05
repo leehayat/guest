@@ -19,7 +19,6 @@
       this.writeDay=new Date();
    }
    
-   // 프로토타입 구성을 통해... 사용자 정의 객체의 함수 정의
    //프로토타입 구성을 통해 ... 사용자 정의 객체의 함수 정의
    Board.prototype.userLocalString = function()
    {
@@ -94,7 +93,7 @@
 <body>
 
 <div>
-   <h1>GUEST BOOK</h1>
+   <h1>G U E S T B O O K</h1>
    <hr>
 </div>
 
