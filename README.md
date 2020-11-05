@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -21,7 +20,7 @@
    }
    
    // 프로토타입 구성을 통해... 사용자 정의 객체의 함수 정의
-   //프로토타입 구성을 통해 ... 사용자 정의 객체의 함수 정
+   //프로토타입 구성을 통해 ... 사용자 정의 객체의 함수 정의
    Board.prototype.userLocalString = function()
    {
       return this.writeDay.getFullYear() + "-"
@@ -95,12 +94,12 @@
 <body>
 
 <div>
-   <h1>자바스크립트 활용</h1>
+   <h1>GUEST BOOK</h1>
    <hr>
 </div>
 
 <div>
-   <p>사용자 정의 객체 및 프로토타입을 활용한 자바스크립트 방명록</p>
+   <p>하 야 의 방 명 록</p>
    
    <div>
       <form>
