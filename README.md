@@ -1,6 +1,3 @@
-# guest
-G U E S T B O O K
-
 <!DOCTYPE html>
 <html>
 <head>
